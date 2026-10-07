@@ -1,0 +1,22 @@
+# Datasets and models (large, regenerate or download)
+ml/data/
+*.tflite
+*.gguf
+*.bin
+*.elf
+*.uf2
+
+# Build output
+build/
+*.o
+*.d
+
+# Python
+__pycache__/
+.venv/
+*.pyc
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+.vscode/
