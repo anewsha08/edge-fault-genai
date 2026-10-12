@@ -1,0 +1,6 @@
+numpy
+scipy
+scikit-learn
+matplotlib
+# Colab already has TensorFlow. Locally: pip install tensorflow
+tensorflow
